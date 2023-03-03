@@ -119,14 +119,14 @@ From the result we can see that 1845 people uses the iphone to tweet,25 are web 
 - What is the most popular dog breed?</br>
 In this part, it is very interessting for us to know which dog breed is the favorite amoung ourdata because this could help us understand our data even more. using code we grouped thedata and then sort it to fi nd this result:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhishek20182/Wrangle-and-Analyze-Data/master/Result-2.png">
+  <img src="Results/dog breeds.PNG">
 </p>
 as we can see the golden retriever breed is the most favorite breed of dogs.
 
 - What is the most popular dogtionary term?</br>
 Just as the last question, knowing which dogtionary term is used could make understanding the dataset much easier, and visualizing it will make it even cleaner thats why we have :
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhishek20182/Wrangle-and-Analyze-Data/master/Result-2.png">
+  <img src="Results/dogtionary count.PNG">
 </p>
 here we see that the pupper term is the most used one out of the bunch which indicate according to the dogtionary that the favorite dogs are small, younger dogs are the favorites.
 
